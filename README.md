@@ -86,6 +86,10 @@ The code solves the Sudoku puzzle using a backtracking algorithm, which involves
 3. **Recursion and Backtracking**: If placing a number leads to a dead end (i.e., no valid numbers left for a cell), the function backtracks, removing the number and trying the next one.
 4. **Completing the Board**: If all cells are filled, the puzzle is solved.
 
+## How It Look Like
+![image](https://github.com/user-attachments/assets/433d22d0-1fd4-461b-885b-565f2da53e0b)
+
+
 
 ## Acknowledgments
 
