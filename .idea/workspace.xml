@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60eeccd3-e3e9-455e-8617-4f39c4a7667b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_0_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_0_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_0_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_0_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_0_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_0_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_0_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_0_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_0_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_1_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_1_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_1_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_1_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_1_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_1_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_2_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_2_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_2_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_2_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_2_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_2_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_2_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_3_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_3_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_3_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_3_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_3_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_3_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_3_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_4_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_4_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_4_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_4_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_4_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_4_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_4_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_4_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_5_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_5_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_5_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_5_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_5_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_5_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_5_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_5_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_5_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_6_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_6_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_6_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_6_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_6_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_6_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_6_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_6_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_6_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_7_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_7_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_7_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_7_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_7_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_7_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_7_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_7_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_7_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_8_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_8_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_8_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_8_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_8_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_8_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_8_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_8_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cells/cell_8_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solver.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ohrULLdN1kw73lo07qEsUJJujf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.solver.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/samak/IdeaProjects/Sudoku-Slover/venv/Scripts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.31554738",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samak\IdeaProjects\Sudoku-Slover\venv\Scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samak\IdeaProjects\Sudoku-Slover\venv\Scripts" />
+      <recent name="C:\Users\samak\IdeaProjects\Sudoku-Slover" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="solver" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Sudoku-Slover" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-249ae16d76d6-d0fa0211" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60eeccd3-e3e9-455e-8617-4f39c4a7667b" name="Changes" comment="" />
+      <created>1731332663014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731332663014</updated>
+      <workItem from="1731332664183" duration="5757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
